@@ -79,14 +79,6 @@
 
 ---
 
-### 🚀 Featured Projects
 
-- 🔗 [Project Name](GitHub Repository Link) – Short one-line description  
-- 🔗 [Project Name](GitHub Repository Link) – Short one-line description
-
-> *Add your top 2-3 projects with short impactful descriptions here to highlight your work.*
-
----
-
-✨ *“Code is poetry – keep writing, keep building.”*
+✨ *“I value curiosity, collaboration, and crafting clean code that solves real problems.”*
 
